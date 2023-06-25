@@ -1,3 +1,5 @@
+#After cloning the Repo You have to install the node_module folder using npm
+As this folder contains lots of files so we cannot upload this to github other dependencies are listed in package-lock.json
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
